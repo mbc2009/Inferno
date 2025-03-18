@@ -1,8 +1,6 @@
-# Computer_Vision
+# A reciprotory for personal development purpose
 
-Helper function sets for computer vision (CV) project.
-
-This CV project is cooperate with Prof. Mengkun Tian at 
-Material Characterization Facility (MCF) of Georgia Institute Technology (GT).
 
 Please DO NOT copy and modify without the permission of author.
+
+(This reciprotory is protected by [Apache 2](https://github.com/mbc2009/Embers/blob/main/LICENSE) license)
